@@ -1,5 +1,6 @@
 # Hi there, Welcome to my Github 🎉👋🎉
-I'm Xinkai Wang, a heavy cloud cat sucker😻, code destroyer😈 and financial naive😶‍🌫️. 
+I'm Xinkai Wang, a heavy cloud cat sucker😻, code destroyer😈 and financial naive😶‍🌫️.   
+
 I will be studying for a Master's degree in Economics at The Hong Kong University of Science and Technology. Currently, I hold my Bachelor's degree in Economic Statistics (Financial Statistics and Risk Management) from Southwestern University of Finance and Economics.
 
 ## 👀 About Me 
